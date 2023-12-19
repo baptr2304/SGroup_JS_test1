@@ -57,7 +57,7 @@ async function main() {
 
     while (!exit) {
         const choice = await questionAsync(`
-            -- Quan ly sinh vien --
+            -- Quản lý sinh viên --
             1. Nhập thông tin sinh viên
             2. Hiển thị danh sách sinh viên
             3. Tìm kiếm sinh viên
